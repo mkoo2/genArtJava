@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/mjhtracy/processing-4.3/core/library/core.jar"
+    ]
+}
