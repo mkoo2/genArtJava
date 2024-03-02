@@ -5,7 +5,7 @@ import processing.core.PApplet;
 import processing.core.PGraphics;
 
 /**
- * fireworks app trail is too long
+ * fireworks app 2
  */
 public class FireworksApp extends PApplet {
 
