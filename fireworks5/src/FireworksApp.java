@@ -5,7 +5,7 @@ import processing.core.PApplet;
 import processing.core.PGraphics;
 
 /**
- * fireworks app 2
+ * fireworks app 3
  */
 public class FireworksApp extends PApplet {
 

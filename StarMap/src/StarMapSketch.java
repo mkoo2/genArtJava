@@ -6,6 +6,9 @@ import processing.core.PFont;
 import processing.core.PGraphics;
 import processing.data.Table;
 
+/**
+ * star map
+ */
 public class StarMapSketch extends PApplet {
 
 	static final int winWidth = 1200;
