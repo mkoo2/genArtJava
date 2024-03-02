@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/marktkoo/processing4-processing-1293-4.3/core/library/core.jar"
+    ],
+    "java.dependency.packagePresentation": "hierarchical"
+}
