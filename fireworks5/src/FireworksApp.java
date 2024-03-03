@@ -5,7 +5,7 @@ import processing.core.PApplet;
 import processing.core.PGraphics;
 
 /**
- * fireworks app 3
+ * fireworks app 4
  */
 public class FireworksApp extends PApplet {
 
@@ -19,7 +19,7 @@ public class FireworksApp extends PApplet {
 	String redColor = ""; // 'red';
 	String yellowColor = "";// 'yellow';
 
-	// ['red', 'orange', 'yellow', 'lime', 'cyan', 'magenta', 'white'];
+	// ['red', 'orange', 'yellow', 'limse', 'cyan', 'magenta', 'white'];
 //	String[] colors = { "red", "orange", "yellow", "lime", "cyan", "magenta", "white" };
 	Color[] COLORS45 = { Color.RED, Color.ORANGE, Color.PINK, Color.YELLOW, Color.CYAN, Color.MAGENTA, Color.WHITE };
 	PGraphics houses;
